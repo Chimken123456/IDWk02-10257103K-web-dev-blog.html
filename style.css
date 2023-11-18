@@ -9,3 +9,8 @@ html {
   h3{color:yellow;}
   h4{color:purple;}
   ul{color:red}
+
+  img{
+    width:350px;
+    height:auto;
+  }
